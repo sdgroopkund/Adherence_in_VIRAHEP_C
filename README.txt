@@ -20,10 +20,10 @@ adherence patterns on week 3 of the regime. the finite_bootstrap.R file studies 
 
 finite bootstrap performance of our proposed confidence bands of the estimated processes 
 
-in the TPR model. The functions. R file contains several functions needed for the analyses, 
+in the TPR model. The functions. R file contains several functions needed for 
 
-and the robustness_and_extra.R file contains certain additional analyses along with the 
+the analyses, and the robustness_and_extra.R file contains certain additional analyses 
 
-robustness test for the interaction effect on week 3 in the weekly combined analysis of 
+along with the robustness test for the interaction effect on week 3 in the weekly combined 
 
-the two drugs. 
+analysis of the two drugs. 
