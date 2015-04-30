@@ -16,11 +16,11 @@ jointly. File diagnostic.R contain the diagnostic comparisons between the physio
 
 and psychological scores of patients that were divided into two groups based on their 
 
-adherence patterns on week 3 of the regime. the finite_bootstrap.R file studies the 
+adherence patterns on week 3 of the regime. The finite_bootstrap.R file studies the 
 
 finite bootstrap performance of our proposed confidence bands of the estimated processes 
 
-in the TPR model. The functions. R file contains several functions needed for 
+in the TPR model. The functions.R file contains several functions needed for 
 
 the analyses, and the robustness_and_extra.R file contains certain additional analyses 
 
